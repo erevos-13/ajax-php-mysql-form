@@ -29,7 +29,7 @@ require "connect.php";
 <div class="container" style="width:700px; "  >
     <h1 align="center">Orfeas Voutsaridis CRUD with php ajax mysql</h1>
     <br />
-    <div class="col-md-6">
+    <div class="col-md-12">
         <form method="post" id="insert_form" onsubmit="return addData();">
             <label>Name</label>
             <input type="text" name="name" id="name" class="form-control" />
