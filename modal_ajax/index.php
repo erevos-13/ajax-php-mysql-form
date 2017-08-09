@@ -27,7 +27,7 @@ require "connect.php";
 
 
 <div class="container" style="width:700px; "  >
-    <h1 align="center">Orfeas Voutsaridis CRUD with php ajax mysql</h1>
+    <h1 align="center">Passing data with php ajax mysql</h1>
     <br />
     <div class="col-md-12">
         <form method="post" id="insert_form" onsubmit="return addData();">
